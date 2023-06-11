@@ -1,4 +1,4 @@
-module github.com/piljac1/bookings
+module github.com/piljac1/go-bookings
 
 go 1.20
 

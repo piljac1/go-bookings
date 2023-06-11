@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/piljac1/bookings/pkg/config"
-	"github.com/piljac1/bookings/pkg/models"
-	"github.com/piljac1/bookings/pkg/render"
+	"github.com/piljac1/go-bookings/pkg/config"
+	"github.com/piljac1/go-bookings/pkg/models"
+	"github.com/piljac1/go-bookings/pkg/render"
 )
 
 var Repo *Repository

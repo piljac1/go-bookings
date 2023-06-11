@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/piljac1/bookings/pkg/config"
-	"github.com/piljac1/bookings/pkg/models"
+	"github.com/piljac1/go-bookings/pkg/config"
+	"github.com/piljac1/go-bookings/pkg/models"
 )
 
 var app *config.AppConfig

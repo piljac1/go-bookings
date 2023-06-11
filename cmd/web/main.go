@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/piljac1/bookings/pkg/config"
-	"github.com/piljac1/bookings/pkg/handlers"
-	"github.com/piljac1/bookings/pkg/render"
+	"github.com/piljac1/go-bookings/pkg/config"
+	"github.com/piljac1/go-bookings/pkg/handlers"
+	"github.com/piljac1/go-bookings/pkg/render"
 )
 
 var app config.AppConfig
